@@ -363,6 +363,16 @@
 
 #### 31. [Project: Hypothesis Testing with Men's and Women's Soccer Matches](https://app.datacamp.com/learn/projects/1611)
 
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](./projects/Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches/wooksong/) |
+| **@Yennyx**        |  |
+
 #### 32. [Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn)
 
 | Member             | Statement of Accomplishment |
