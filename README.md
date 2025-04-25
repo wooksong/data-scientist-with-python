@@ -389,4 +389,12 @@
 
 #### 36. [Machine Learning with Tree-Based Models in Python](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/4bbbb1180a063d7049136de0132e1852bb69eecb) |
+| **@Yennyx**        |  |
+
 #### 37. [Project: Predicting Movie Rental Durations](https://app.datacamp.com/learn/projects/1796)
