@@ -375,6 +375,16 @@
 
 #### 33. [Project: Predictive Modeling for Agriculture](https://app.datacamp.com/learn/projects/1772)
 
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](./projects/Predictive%20Modeling%20for%20Agriculture/wooksong/) |
+| **@Yennyx**        |  |
+
 #### 34. [Unsupervised Learning in Python](https://app.datacamp.com/learn/courses/unsupervised-learning-in-python)
 
 | Member             | Statement of Accomplishment |
