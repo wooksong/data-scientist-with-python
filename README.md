@@ -390,3 +390,13 @@
 #### 36. [Machine Learning with Tree-Based Models in Python](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python)
 
 #### 37. [Project: Predicting Movie Rental Durations](https://app.datacamp.com/learn/projects/1796)
+
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](./projects/Predicting%20Movie%20Rental%20Durations/wooksong/)
+| **@Yennyx**        |  |
